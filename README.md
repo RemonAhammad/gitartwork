@@ -2,9 +2,11 @@
 
 gitartwork on user's contribution graph, make a SVG image of it and finally push it back to your repository.
 
+<!-- An example result:
+[![RemonAhammad/gitartwork](gitartwork.svg)](https://github.com/RemonAhammad/gitartwork) -->
+
 An example result:
 [![RemonAhammad/gitartwork](gitartwork.svg)](https://github.com/RemonAhammad/gitartwork)
-
 ## Usage:
 
 ### Option #1: Use gitartwork as a GitHub Action
