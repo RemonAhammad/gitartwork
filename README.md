@@ -3,7 +3,7 @@
 gitartwork on user's contribution graph, make a SVG image of it and finally push it back to your repository.
 
 An example result:
-[![jasineri/gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
+[![RemonAhammad/gitartwork](gitartwork.svg)](https://github.com/RemonAhammad/gitartwork)
 
 ## Usage:
 
@@ -22,13 +22,13 @@ An example result:
             runs-on: ubuntu-latest
             steps:
               - uses: actions/checkout@v2
-              - uses: jasineri/gitartwork@v1
+              - uses: RemonAhammad/gitartwork@v1
                 with:
                    # Use this username's contribution graph  
-                   user_name: jasineri
+                   user_name: RemonAhammad
                    # Text on contribution graph 
-                   text: JASINERI
-              - uses: jasineri/simple-push-action@v1
+                   text: Remon
+              - uses: RemonAhammad/simple-push-action@v1
 
 2. A few moments later it will generate `gitartwork.svg` image in your repository, so then you can include it in your `README.md` like `![gitartwork](gitartwork.svg)`
 3. Have fun :)
