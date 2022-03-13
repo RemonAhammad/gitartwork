@@ -6,15 +6,7 @@
         --c3: #30a14e;
         --c4: #216e39;
     }
-    .o, .o[data-level="0"] {
-        fill: var(--c0);
-        shape-rendering: geometricPrecision;
-        outline: 1px solid var(--c0);
-        outline-offset: -1px
-    }
-    .o[data-level="1"] {
-        outline: 1px solid var(--c0)
-    }
+ 
     .o[data-level="2"] {
         outline: 1px solid var(--c0)
     }
