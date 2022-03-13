@@ -6,7 +6,15 @@
         --c3: #30a14e;
         --c4: #216e39;
     }
- 
+    .o, .o[data-level="0"] {
+        fill: var(--c0);
+        shape-rendering: geometricPrecision;
+        outline: 1px solid var(--c0);
+        outline-offset: -1px
+    }
+    .o[data-level="1"] {
+        outline: 1px solid var(--c0)
+    }
     .o[data-level="2"] {
         outline: 1px solid var(--c0)
     }
@@ -1840,7 +1848,7 @@ transform: rotate(0deg)
 .c.c132 {
                 animation-name: c132
             }</style>
-  <g transform="translate(10, 20)" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:17604010,&quot;target&quot;:&quot;CONTRIBUTION_CALENDAR_SQUARE&quot;,&quot;user_id&quot;:null,&quot;originating_url&quot;:&quot;https://github.com/RemonAhammad&quot;}}" data-hydro-click-hmac="fae128be945453eee2551fcfae5324e9d35474b69a6a21ece3eaf4c63163ebbf">
+  <g transform="translate(10, 20)" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:17604010,&quot;target&quot;:&quot;CONTRIBUTION_CALENDAR_SQUARE&quot;,&quot;user_id&quot;:null,&quot;originating_url&quot;:&quot;https://gitjasinerinAhammad&quot;}}" data-hydro-click-hmac="fae128be945453eee2551fcfae5324e9d35474b69a6a21ece3eaf4c63163ebbf">
       <g transform="translate(0, 0)">
           <rect width="11" height="11" x="16" y="0" class="o" rx="2" ry="2" data-count="0" data-date="2021-03-14" data-level="0"></rect>
           <rect width="11" height="11" x="16" y="15" class="o" rx="2" ry="2" data-count="0" data-date="2021-03-15" data-level="0"></rect>
@@ -1902,7 +1910,7 @@ transform: rotate(0deg)
           <rect width="11" height="11" x="10" y="45" class="o c c7" rx="2" ry="2" data-count="0" data-date="2021-04-28" data-level="0"></rect>
           <rect width="11" height="11" x="10" y="60" class="o c c8" rx="2" ry="2" data-count="11" data-date="2021-04-29" data-level="2"></rect>
           <rect width="11" height="11" x="10" y="75" class="o c c9" rx="2" ry="2" data-count="0" data-date="2021-04-30" data-level="0"></rect>
-          <rect width="11" height="11" x="10" y="90" class="o" rx="2" ry="2" data-count="0" data-date="2021-05-01" data-level="0"></rect>
+          <rect width="11" height="11" x="10" y="90" class="o c c9" rx="2" ry="2" data-count="0" data-date="2021-05-01" data-level="0"></rect>
       </g>
       <g transform="translate(112, 0)">
           <rect width="11" height="11" x="9" y="0" class="o c c10" rx="2" ry="2" data-count="0" data-date="2021-05-02" data-level="0"></rect>
@@ -2332,4 +2340,4 @@ transform: rotate(0deg)
     
     
     
-</g><a href="https://github.com/RemonAhammad/gitartwork"><text x="24" y="132" font-size="0.6em" fill="blue">Get your own gitartwork on RemonAhammad/gitartwork</text></a></svg>
+</g><a href="https://gitjasinerinAhammad/gitartwork"><text x="24" y="132" font-size="0.6em" fill="blue">Get your own gitartjasinerinAhammad/gitartwork</text></a></svg>
